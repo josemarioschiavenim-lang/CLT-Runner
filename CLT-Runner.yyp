@@ -40,6 +40,7 @@
     {"id":{"name":"rm_inicial","path":"rooms/rm_inicial/rm_inicial.yy",},},
     {"id":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
     {"id":{"name":"spr_aviso","path":"sprites/spr_aviso/spr_aviso.yy",},},
+    {"id":{"name":"spr_CLT","path":"sprites/spr_CLT/spr_CLT.yy",},},
     {"id":{"name":"spr_fundo","path":"sprites/spr_fundo/spr_fundo.yy",},},
     {"id":{"name":"spr_historia","path":"sprites/spr_historia/spr_historia.yy",},},
     {"id":{"name":"spr_personagem","path":"sprites/spr_personagem/spr_personagem.yy",},},
@@ -47,8 +48,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_inicial","path":"rooms/rm_inicial/rm_inicial.yy",},},
     {"roomId":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
+    {"roomId":{"name":"rm_inicial","path":"rooms/rm_inicial/rm_inicial.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
