@@ -1,1 +1,1 @@
-frame++;
+frame++;//Sempre que o espaço for pressionado, é adicionado mais 1 ao frame.
