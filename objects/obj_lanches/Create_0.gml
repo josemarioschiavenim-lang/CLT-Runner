@@ -8,4 +8,4 @@ if x == 11{
 	image_xscale = -1;
 }
 
-vspeed = 1;
+vspeed = global.aumento_vel;

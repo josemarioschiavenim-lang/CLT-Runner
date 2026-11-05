@@ -1,0 +1,1 @@
+vspeed = global.aumento_vel;
