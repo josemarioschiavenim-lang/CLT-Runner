@@ -35,12 +35,17 @@
   },
   "name":"CLT-Runner",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"obj_historia","path":"objects/obj_historia/obj_historia.yy",},},
+    {"id":{"name":"rm_inicial","path":"rooms/rm_inicial/rm_inicial.yy",},},
+    {"id":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
+    {"id":{"name":"spr_aviso","path":"sprites/spr_aviso/spr_aviso.yy",},},
+    {"id":{"name":"spr_historia","path":"sprites/spr_historia/spr_historia.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_inicial","path":"rooms/rm_inicial/rm_inicial.yy",},},
+    {"roomId":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
