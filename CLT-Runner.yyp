@@ -61,8 +61,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
     {"roomId":{"name":"rm_inicial","path":"rooms/rm_inicial/rm_inicial.yy",},},
+    {"roomId":{"name":"rm_partida","path":"rooms/rm_partida/rm_partida.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
